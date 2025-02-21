@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">zepto</string>
+    <string name="welcome_to_the_home_page">Welcome to the Home Page!</string>
+    <string name="register">Register</string>
+    <string name="password">Password</string>
+    <string name="username">Username</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="not_registered_register_now">Not registered? Register now</string>
+</resources>
